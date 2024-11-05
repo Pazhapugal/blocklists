@@ -6,4 +6,4 @@ dl.delivery.mp.microsoft.com
 4.tlu.dl.delivery.mp.microsoft.com
 .fbcdn.net
 web.whatsapp.com
-.whatsapp.net
+static.whatsapp.net
