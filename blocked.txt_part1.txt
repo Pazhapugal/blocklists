@@ -7,3 +7,7 @@ dl.delivery.mp.microsoft.com
 .fbcdn.net
 web.whatsapp.com
 static.whatsapp.net
+.facebook.com
+static.cdninstagram.com
+.instagram.com
+www.instagram.com
