@@ -20,3 +20,5 @@ www.pinterest.com
 youtube.googleapis.com
 video.google.com
 lichess.org
+s.pinimg.com
+in.pinterest.com
