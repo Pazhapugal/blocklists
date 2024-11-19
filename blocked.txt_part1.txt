@@ -19,6 +19,7 @@ www.pinterest.com
 .pinterest.net
 youtube.googleapis.com
 video.google.com
+.youtube.com
 lichess.org
 s.pinimg.com
 in.pinterest.com
