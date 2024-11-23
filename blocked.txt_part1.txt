@@ -1,6 +1,5 @@
 .olx.in
 download.windowsupdate.com
-.microsoft.com
 dl.delivery.mp.microsoft.com
 2.tlu.dl.delivery.mp.microsoft.com
 4.tlu.dl.delivery.mp.microsoft.com
