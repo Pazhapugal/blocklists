@@ -23,3 +23,5 @@ lichess.org
 s.pinimg.com
 in.pinterest.com
 .hotstar.com
+.primevideo.com
+.netflix.com
