@@ -22,3 +22,4 @@ video.google.com
 lichess.org
 s.pinimg.com
 in.pinterest.com
+.hotstar.com
