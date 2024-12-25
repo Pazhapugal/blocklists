@@ -25,3 +25,4 @@ in.pinterest.com
 .primevideo.com
 .netflix.com
 zone.msn.com
+.spotify.com
